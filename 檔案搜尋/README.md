@@ -7,3 +7,14 @@
 
 - `find [目錄] -name [檔案名]`：在指定目錄下搜尋檔案。
 - `grep [關鍵字] [檔案]`：搜尋檔案中的關鍵字。
+
+
+## 版權所有 | License
+
+[版權所有 © 2024 鑽石託管。保留所有權利。](https://discord.gg/5Fky5SEfBd)
+
+---
+
+### Copyright | License
+
+[Copyright © 2024 鑽石託管. All rights reserved.](https://discord.gg/5Fky5SEfBd)

@@ -59,3 +59,14 @@ sudo systemctl restart mosquitto
 ```bash
 mosquitto_sub -h <ip> -t test/topic -u <用戶名> -P <密碼>
 ```
+
+
+## 版權所有 | License
+
+[版權所有 © 2024 鑽石託管。保留所有權利。](https://discord.gg/5Fky5SEfBd)
+
+---
+
+### Copyright | License
+
+[Copyright © 2024 鑽石託管. All rights reserved.](https://discord.gg/5Fky5SEfBd)

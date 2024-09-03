@@ -14,3 +14,14 @@
 - `rm -r <目錄>`：遞迴刪除目錄及其內容。
 - `mkdir <目錄>`：建立新目錄。
 - `rmdir <目錄>`：刪除空目錄。
+
+
+## 版權所有 | License
+
+[版權所有 © 2024 鑽石託管。保留所有權利。](https://discord.gg/5Fky5SEfBd)
+
+---
+
+### Copyright | License
+
+[Copyright © 2024 鑽石託管. All rights reserved.](https://discord.gg/5Fky5SEfBd)

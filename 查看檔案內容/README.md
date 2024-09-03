@@ -10,3 +10,14 @@
 - `less [檔案]`：分頁顯示檔案內容（支援向上滾動）。
 - `head [檔案]`：顯示檔案的前幾行。
 - `tail [檔案]`：顯示檔案的最後幾行。
+
+
+## 版權所有 | License
+
+[版權所有 © 2024 鑽石託管。保留所有權利。](https://discord.gg/5Fky5SEfBd)
+
+---
+
+### Copyright | License
+
+[Copyright © 2024 鑽石託管. All rights reserved.](https://discord.gg/5Fky5SEfBd)

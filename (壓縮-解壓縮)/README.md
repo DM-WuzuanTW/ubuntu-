@@ -63,3 +63,14 @@ tar -tvf 壓縮檔案名稱.tar
 
 
 此設定確保使用者僅能在限制性目錄內編輯文件，無法導航至文件系統的其他部分。
+
+
+## 版權所有 | License
+
+[版權所有 © 2024 鑽石託管。保留所有權利。](https://discord.gg/5Fky5SEfBd)
+
+---
+
+### Copyright | License
+
+[Copyright © 2024 鑽石託管. All rights reserved.](https://discord.gg/5Fky5SEfBd)
