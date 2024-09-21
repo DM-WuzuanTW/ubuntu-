@@ -9,7 +9,7 @@
     ```bash
     sudo adduser <用戶名稱>
     ```
-2. **創建新用戶的家目錄** : 
+2. **創建新用戶的目錄** : 
    ```bash
    sudo mkdir -p /home/<用戶名稱>/.ssh
    sudo chown <用戶名稱>:<用戶名稱> /home/<用戶名稱>/.ssh
